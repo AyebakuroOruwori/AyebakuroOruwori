@@ -1,9 +1,6 @@
 ### Hola i'm Ayebakuro Oruwori👋
 
 
-**AyebakuroOruwori/AyebakuroOruwori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Google Cloud Platform(Cloud Computing)
 - 🌱 I’m currently learning Networking/Linux
