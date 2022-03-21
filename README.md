@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Google Cloud Platform(Cloud Computing)
 - 🌱 I’m currently learning Networking/Linux
 - 👯 I’m looking to collaborate on Open source projects
-- 🤔 I’m looking for help with finding an internship placement
+- 🤔 I’m open to help with finding an internship placement
 - 💬 Ask me about Android, Cloud Computing, Software Engineering, Networking or tech related things
 - 📫 How to reach me:
                     [Twitter - @Ayebakuro_](https://twitter.com/Ayebakuroo_),
