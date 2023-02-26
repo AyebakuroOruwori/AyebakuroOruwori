@@ -9,7 +9,7 @@
 - 💬 Ask me about Android, Cloud Computing, Software Engineering, Networking or tech related things
 - 📫 How to reach me:
                     [Twitter - @Ayebakuro_](https://twitter.com/Ayebakuroo_),
-                    [Hashnode - @ayebakuroo](https://ayebakuroo.hashnode.dev),
+                    [Hashnode - @ayebakuroo](https://ayebakuro.hashnode.dev),
                     [Instagram - @ayebakuro_o  ](https://www.instagram.com/ayebakuro_o/),
                     [LinkedIn - Ayebakuro Oruwori ](https://www.linkedin.com/in/ayebakuro-oruwori-776846138/)
  
